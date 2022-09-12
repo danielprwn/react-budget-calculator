@@ -1,6 +1,6 @@
-# React Responsive Moder Webiste.
+# React Budget Calculator Web App.
 
-✔ Ability to convert the entered text into speech.
+✔ Calculation of budget revenues and expenses.
 
 ## Technologies
 ✅ HTML ✅ CSS ⚛ React JS
